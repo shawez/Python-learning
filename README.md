@@ -1,6 +1,4 @@
-# KHAN
-FBA
+Learn Python
+Python is a popular programming language.
 
-Hi,
-
-I am Shawez KHAN
+Python can be used on for multiple applications.

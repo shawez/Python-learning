@@ -1,3 +1,1 @@
-Python is a popular programming language.
-
-Python can be used on for multiple applications.
+Python is a popular programming language. Python can be used on for multiple applications.
